@@ -8,7 +8,7 @@ echo ' mmmmmm   "               #         #                      m""
                                             m"
                                            "" '
 
-echo "Telegram: @Foxxxer_SA"
+echo "Telegram: @Foxxer_SA"
 echo "Se inscreve lá @AcervoHackerBR!!"
 echo "GitHub: foxx3r"
 sleep 2
